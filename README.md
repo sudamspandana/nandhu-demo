@@ -1,4 +1,6 @@
 # nandhu-demo
 This is my first Git repository.
 <br>
-author-spandana
+author-spandana(stanley collage)
+in that system
+
